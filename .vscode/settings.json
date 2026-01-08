@@ -1,0 +1,6 @@
+{
+    "chat.useClaudeSkills": true,
+    "chat.useAgentSkills": true,
+    "chat.useAgentsMdFile": true
+
+}
